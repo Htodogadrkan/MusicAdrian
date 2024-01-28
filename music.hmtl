@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+    <title>my playlist</title>
+
+<style>
+ 
+ body {
+  background-image: url('playlist.jpg');
+}
+
+h2 {
+  color: Red;
+  text-align: Center;
+  font-size: 50px;
+}
+</style>
+</head>
+<body>
+	<div style="background-color:Pink">
+    <h2 style="color:White">My Playlist</h2></h2>
+    <h2 style="color:Red">
+</div>
+  
+   <div style="background-color:white;">
+  <h2><a href="https://youtu.be/iygXgP2nOF4?si=TevvYD7OWcSnNqF1="_blank">Niki-Take A Chance With Me</a></h2>
+  <h2><a href="https://youtu.be/PXGycbkbtW0?si=f1wSMFTJnyVA4Nq-" target="_blank">Ali Gatie- it's You (Official Lyrics Video)
+  <h2><a href="https://youtu.be/6PI1Zd9lr7o?si=AEWvtr719FL486WE"_blank">Emman- Kung Pwede Lang (Official Lyric Video)</a>
+  <h2><a href="https://youtu.be/XToA-1dZYWA?si=p5HWfKUgr30urIhg"_blank">Pasilyo// Sunkissed Lola</a></h2>
